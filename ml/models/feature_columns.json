@@ -1,0 +1,19 @@
+[
+  "patient_day",
+  "age",
+  "gender",
+  "ethnicity",
+  "unit",
+  "admission_type",
+  "bmi",
+  "weight_change_pct",
+  "albumin_min",
+  "hemoglobin_min",
+  "wbc_max",
+  "los_days",
+  "poor_intake_flag",
+  "nutrition_note_terms",
+  "icu_flag",
+  "charlson_score",
+  "prior_admissions"
+]
